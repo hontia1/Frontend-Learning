@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#head{
+    display: flex;
+    padding: 15px 30px;
+}
+#header{
+    background-color: black;
+    color: white;
+    display: flex;    
+}
+#contact div{
+    padding: 0px 10px;
+}
